@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JavaStudy202210-junil" />
         <module name="JavaStudy-202210-junil" />
+        <module name="WebJavaStudy-202210-junil" />
       </profile>
     </annotationProcessing>
   </component>
